@@ -1,0 +1,230 @@
+2023-06-12 22:29:10,491 : INFO : Input file format data loaded successfully inside the pandas dataframe
+2023-06-12 22:29:12,332 : INFO : Text data extracted and saved for URL_ID: 37
+2023-06-12 22:29:14,133 : INFO : Text data extracted and saved for URL_ID: 38
+2023-06-12 22:30:23,688 : INFO : Text data extracted and saved for URL_ID: 39
+2023-06-12 22:31:32,994 : INFO : Text data extracted and saved for URL_ID: 40
+2023-06-12 22:31:38,579 : INFO : Text data extracted and saved for URL_ID: 41
+2023-06-12 22:32:25,475 : INFO : Text data extracted and saved for URL_ID: 42
+2023-06-12 22:32:27,172 : INFO : Text data extracted and saved for URL_ID: 43
+2023-06-12 22:32:28,062 : INFO : Text data extracted and saved for URL_ID: 44
+2023-06-12 22:32:29,931 : INFO : Text data extracted and saved for URL_ID: 45
+2023-06-12 22:32:30,800 : INFO : Text data extracted and saved for URL_ID: 46
+2023-06-12 22:32:34,128 : INFO : Text data extracted and saved for URL_ID: 47
+2023-06-12 22:32:35,013 : INFO : Text data extracted and saved for URL_ID: 48
+2023-06-12 22:32:38,115 : INFO : Text data extracted and saved for URL_ID: 49
+2023-06-12 22:32:38,997 : INFO : Text data extracted and saved for URL_ID: 50
+2023-06-12 22:32:39,881 : INFO : Text data extracted and saved for URL_ID: 51
+2023-06-12 22:32:41,584 : INFO : Text data extracted and saved for URL_ID: 52
+2023-06-12 22:32:43,250 : INFO : Text data extracted and saved for URL_ID: 53
+2023-06-12 22:32:44,974 : INFO : Text data extracted and saved for URL_ID: 54
+2023-06-12 22:32:46,935 : INFO : Text data extracted and saved for URL_ID: 55
+2023-06-12 22:32:49,085 : INFO : Text data extracted and saved for URL_ID: 56
+2023-06-12 22:32:49,889 : INFO : Text data extracted and saved for URL_ID: 57
+2023-06-12 22:32:52,047 : INFO : Text data extracted and saved for URL_ID: 58
+2023-06-12 22:32:54,257 : INFO : Text data extracted and saved for URL_ID: 59
+2023-06-12 22:32:56,504 : INFO : Text data extracted and saved for URL_ID: 60
+2023-06-12 22:32:58,533 : INFO : Text data extracted and saved for URL_ID: 61
+2023-06-12 22:33:00,472 : INFO : Text data extracted and saved for URL_ID: 62
+2023-06-12 22:33:02,491 : INFO : Text data extracted and saved for URL_ID: 63
+2023-06-12 22:33:04,506 : INFO : Text data extracted and saved for URL_ID: 64
+2023-06-12 22:33:06,558 : INFO : Text data extracted and saved for URL_ID: 65
+2023-06-12 22:33:08,544 : INFO : Text data extracted and saved for URL_ID: 66
+2023-06-12 22:33:10,563 : INFO : Text data extracted and saved for URL_ID: 67
+2023-06-12 22:33:11,964 : INFO : Text data extracted and saved for URL_ID: 68
+2023-06-12 22:33:14,329 : INFO : Text data extracted and saved for URL_ID: 69
+2023-06-12 22:33:16,314 : INFO : Text data extracted and saved for URL_ID: 70
+2023-06-12 22:33:18,464 : INFO : Text data extracted and saved for URL_ID: 71
+2023-06-12 22:33:20,622 : INFO : Text data extracted and saved for URL_ID: 72
+2023-06-12 22:33:22,859 : INFO : Text data extracted and saved for URL_ID: 73
+2023-06-12 22:33:25,036 : INFO : Text data extracted and saved for URL_ID: 74
+2023-06-12 22:33:26,952 : INFO : Text data extracted and saved for URL_ID: 75
+2023-06-12 22:33:28,996 : INFO : Text data extracted and saved for URL_ID: 76
+2023-06-12 22:33:30,859 : INFO : Text data extracted and saved for URL_ID: 77
+2023-06-12 22:33:33,035 : INFO : Text data extracted and saved for URL_ID: 78
+2023-06-12 22:33:35,112 : INFO : Text data extracted and saved for URL_ID: 79
+2023-06-12 22:33:37,035 : INFO : Text data extracted and saved for URL_ID: 80
+2023-06-12 22:33:38,995 : INFO : Text data extracted and saved for URL_ID: 81
+2023-06-12 22:33:41,269 : INFO : Text data extracted and saved for URL_ID: 82
+2023-06-12 22:33:43,223 : INFO : Text data extracted and saved for URL_ID: 83
+2023-06-12 22:33:44,808 : INFO : Text data extracted and saved for URL_ID: 84
+2023-06-12 22:33:46,416 : INFO : Text data extracted and saved for URL_ID: 85
+2023-06-12 22:33:48,060 : INFO : Text data extracted and saved for URL_ID: 86
+2023-06-12 22:33:49,774 : INFO : Text data extracted and saved for URL_ID: 87
+2023-06-12 22:33:51,539 : INFO : Text data extracted and saved for URL_ID: 88
+2023-06-12 22:33:54,723 : INFO : Text data extracted and saved for URL_ID: 89
+2023-06-12 22:33:57,060 : INFO : Text data extracted and saved for URL_ID: 90
+2023-06-12 22:33:59,257 : INFO : Text data extracted and saved for URL_ID: 91
+2023-06-12 22:34:01,696 : INFO : Text data extracted and saved for URL_ID: 92
+2023-06-12 22:34:03,906 : INFO : Text data extracted and saved for URL_ID: 93
+2023-06-12 22:34:04,756 : INFO : Text data extracted and saved for URL_ID: 94
+2023-06-12 22:34:05,579 : INFO : Text data extracted and saved for URL_ID: 95
+2023-06-12 22:34:07,273 : INFO : Text data extracted and saved for URL_ID: 96
+2023-06-12 22:34:08,926 : INFO : Text data extracted and saved for URL_ID: 97
+2023-06-12 22:34:09,781 : INFO : Text data extracted and saved for URL_ID: 98
+2023-06-12 22:34:11,838 : INFO : Text data extracted and saved for URL_ID: 99
+2023-06-12 22:34:12,667 : INFO : Text data extracted and saved for URL_ID: 100
+2023-06-12 22:34:14,119 : INFO : Text data extracted and saved for URL_ID: 101
+2023-06-12 22:34:16,381 : INFO : Text data extracted and saved for URL_ID: 102
+2023-06-12 22:34:17,220 : INFO : Text data extracted and saved for URL_ID: 103
+2023-06-12 22:34:19,401 : INFO : Text data extracted and saved for URL_ID: 104
+2023-06-12 22:34:21,386 : INFO : Text data extracted and saved for URL_ID: 105
+2023-06-12 22:34:22,219 : INFO : Text data extracted and saved for URL_ID: 106
+2023-06-12 22:34:23,839 : INFO : Text data extracted and saved for URL_ID: 107
+2023-06-12 22:34:26,388 : INFO : Text data extracted and saved for URL_ID: 108
+2023-06-12 22:34:27,208 : INFO : Text data extracted and saved for URL_ID: 109
+2023-06-12 22:34:29,358 : INFO : Text data extracted and saved for URL_ID: 110
+2023-06-12 22:34:31,375 : INFO : Text data extracted and saved for URL_ID: 111
+2023-06-12 22:34:33,746 : INFO : Text data extracted and saved for URL_ID: 112
+2023-06-12 22:34:36,019 : INFO : Text data extracted and saved for URL_ID: 113
+2023-06-12 22:34:38,340 : INFO : Text data extracted and saved for URL_ID: 114
+2023-06-12 22:34:40,542 : INFO : Text data extracted and saved for URL_ID: 115
+2023-06-12 22:34:42,280 : INFO : Text data extracted and saved for URL_ID: 116
+2023-06-12 22:34:44,521 : INFO : Text data extracted and saved for URL_ID: 117
+2023-06-12 22:34:46,514 : INFO : Text data extracted and saved for URL_ID: 118
+2023-06-12 22:34:48,495 : INFO : Text data extracted and saved for URL_ID: 119
+2023-06-12 22:34:50,753 : INFO : Text data extracted and saved for URL_ID: 120
+2023-06-12 22:34:53,098 : INFO : Text data extracted and saved for URL_ID: 121
+2023-06-12 22:34:55,376 : INFO : Text data extracted and saved for URL_ID: 122
+2023-06-12 22:34:57,707 : INFO : Text data extracted and saved for URL_ID: 123
+2023-06-12 22:34:59,917 : INFO : Text data extracted and saved for URL_ID: 124
+2023-06-12 22:35:02,214 : INFO : Text data extracted and saved for URL_ID: 125
+2023-06-12 22:35:03,967 : INFO : Text data extracted and saved for URL_ID: 126
+2023-06-12 22:35:05,659 : INFO : Text data extracted and saved for URL_ID: 127
+2023-06-12 22:35:07,274 : INFO : Text data extracted and saved for URL_ID: 128
+2023-06-12 22:35:09,031 : INFO : Text data extracted and saved for URL_ID: 129
+2023-06-12 22:35:11,279 : INFO : Text data extracted and saved for URL_ID: 130
+2023-06-12 22:35:13,449 : INFO : Text data extracted and saved for URL_ID: 131
+2023-06-12 22:35:15,797 : INFO : Text data extracted and saved for URL_ID: 132
+2023-06-12 22:35:17,809 : INFO : Text data extracted and saved for URL_ID: 133
+2023-06-12 22:35:19,988 : INFO : Text data extracted and saved for URL_ID: 134
+2023-06-12 22:35:22,113 : INFO : Text data extracted and saved for URL_ID: 135
+2023-06-12 22:35:24,164 : INFO : Text data extracted and saved for URL_ID: 136
+2023-06-12 22:35:26,043 : INFO : Text data extracted and saved for URL_ID: 137
+2023-06-12 22:35:28,216 : INFO : Text data extracted and saved for URL_ID: 138
+2023-06-12 22:35:30,322 : INFO : Text data extracted and saved for URL_ID: 139
+2023-06-12 22:35:32,249 : INFO : Text data extracted and saved for URL_ID: 140
+2023-06-12 22:35:34,699 : INFO : Text data extracted and saved for URL_ID: 141
+2023-06-12 22:35:36,927 : INFO : Text data extracted and saved for URL_ID: 142
+2023-06-12 22:35:38,947 : INFO : Text data extracted and saved for URL_ID: 143
+2023-06-12 22:35:40,962 : ERROR : Received HTTP status code 404 for URL_ID: 144
+2023-06-12 22:35:43,084 : INFO : Text data extracted and saved for URL_ID: 145
+2023-06-12 22:35:45,034 : INFO : Text data extracted and saved for URL_ID: 146
+2023-06-12 22:35:47,303 : INFO : Text data extracted and saved for URL_ID: 147
+2023-06-12 22:35:49,256 : INFO : Text data extracted and saved for URL_ID: 148
+2023-06-12 22:35:50,916 : INFO : Text data extracted and saved for URL_ID: 149
+2023-06-12 22:35:53,028 : INFO : Text data extracted and saved for URL_ID: 150
+2023-06-12 22:35:53,046 : INFO : Output variables calculated for URL_ID: 37
+2023-06-12 22:35:53,055 : INFO : Output variables calculated for URL_ID: 38
+2023-06-12 22:35:53,073 : INFO : Output variables calculated for URL_ID: 39
+2023-06-12 22:35:53,090 : INFO : Output variables calculated for URL_ID: 40
+2023-06-12 22:35:53,106 : INFO : Output variables calculated for URL_ID: 41
+2023-06-12 22:35:53,121 : INFO : Output variables calculated for URL_ID: 42
+2023-06-12 22:35:53,128 : INFO : Output variables calculated for URL_ID: 43
+2023-06-12 22:35:53,130 : INFO : Output variables calculated for URL_ID: 44
+2023-06-12 22:35:53,136 : INFO : Output variables calculated for URL_ID: 45
+2023-06-12 22:35:53,138 : INFO : Output variables calculated for URL_ID: 46
+2023-06-12 22:35:53,155 : INFO : Output variables calculated for URL_ID: 47
+2023-06-12 22:35:53,157 : INFO : Output variables calculated for URL_ID: 48
+2023-06-12 22:35:53,174 : INFO : Output variables calculated for URL_ID: 49
+2023-06-12 22:35:53,175 : INFO : Output variables calculated for URL_ID: 50
+2023-06-12 22:35:53,177 : INFO : Output variables calculated for URL_ID: 51
+2023-06-12 22:35:53,183 : INFO : Output variables calculated for URL_ID: 52
+2023-06-12 22:35:53,195 : INFO : Output variables calculated for URL_ID: 53
+2023-06-12 22:35:53,202 : INFO : Output variables calculated for URL_ID: 54
+2023-06-12 22:35:53,209 : INFO : Output variables calculated for URL_ID: 55
+2023-06-12 22:35:53,213 : INFO : Output variables calculated for URL_ID: 56
+2023-06-12 22:35:53,214 : INFO : Output variables calculated for URL_ID: 57
+2023-06-12 22:35:53,228 : INFO : Output variables calculated for URL_ID: 58
+2023-06-12 22:35:53,235 : INFO : Output variables calculated for URL_ID: 59
+2023-06-12 22:35:53,254 : INFO : Output variables calculated for URL_ID: 60
+2023-06-12 22:35:53,261 : INFO : Output variables calculated for URL_ID: 61
+2023-06-12 22:35:53,265 : INFO : Output variables calculated for URL_ID: 62
+2023-06-12 22:35:53,271 : INFO : Output variables calculated for URL_ID: 63
+2023-06-12 22:35:53,276 : INFO : Output variables calculated for URL_ID: 64
+2023-06-12 22:35:53,281 : INFO : Output variables calculated for URL_ID: 65
+2023-06-12 22:35:53,284 : INFO : Output variables calculated for URL_ID: 66
+2023-06-12 22:35:53,292 : INFO : Output variables calculated for URL_ID: 67
+2023-06-12 22:35:53,295 : INFO : Output variables calculated for URL_ID: 68
+2023-06-12 22:35:53,308 : INFO : Output variables calculated for URL_ID: 69
+2023-06-12 22:35:53,311 : INFO : Output variables calculated for URL_ID: 70
+2023-06-12 22:35:53,315 : INFO : Output variables calculated for URL_ID: 71
+2023-06-12 22:35:53,332 : INFO : Output variables calculated for URL_ID: 72
+2023-06-12 22:35:53,347 : INFO : Output variables calculated for URL_ID: 73
+2023-06-12 22:35:53,363 : INFO : Output variables calculated for URL_ID: 74
+2023-06-12 22:35:53,372 : INFO : Output variables calculated for URL_ID: 75
+2023-06-12 22:35:53,386 : INFO : Output variables calculated for URL_ID: 76
+2023-06-12 22:35:53,391 : INFO : Output variables calculated for URL_ID: 77
+2023-06-12 22:35:53,406 : INFO : Output variables calculated for URL_ID: 78
+2023-06-12 22:35:53,415 : INFO : Output variables calculated for URL_ID: 79
+2023-06-12 22:35:53,424 : INFO : Output variables calculated for URL_ID: 80
+2023-06-12 22:35:53,432 : INFO : Output variables calculated for URL_ID: 81
+2023-06-12 22:35:53,441 : INFO : Output variables calculated for URL_ID: 82
+2023-06-12 22:35:53,450 : INFO : Output variables calculated for URL_ID: 83
+2023-06-12 22:35:53,456 : INFO : Output variables calculated for URL_ID: 84
+2023-06-12 22:35:53,459 : INFO : Output variables calculated for URL_ID: 85
+2023-06-12 22:35:53,465 : INFO : Output variables calculated for URL_ID: 86
+2023-06-12 22:35:53,480 : INFO : Output variables calculated for URL_ID: 87
+2023-06-12 22:35:53,511 : INFO : Output variables calculated for URL_ID: 88
+2023-06-12 22:35:53,528 : INFO : Output variables calculated for URL_ID: 89
+2023-06-12 22:35:53,544 : INFO : Output variables calculated for URL_ID: 90
+2023-06-12 22:35:53,547 : INFO : Output variables calculated for URL_ID: 91
+2023-06-12 22:35:53,554 : INFO : Output variables calculated for URL_ID: 92
+2023-06-12 22:35:53,574 : INFO : Output variables calculated for URL_ID: 93
+2023-06-12 22:35:53,576 : INFO : Output variables calculated for URL_ID: 94
+2023-06-12 22:35:53,577 : INFO : Output variables calculated for URL_ID: 95
+2023-06-12 22:35:53,593 : INFO : Output variables calculated for URL_ID: 96
+2023-06-12 22:35:53,605 : INFO : Output variables calculated for URL_ID: 97
+2023-06-12 22:35:53,607 : INFO : Output variables calculated for URL_ID: 98
+2023-06-12 22:35:53,619 : INFO : Output variables calculated for URL_ID: 99
+2023-06-12 22:35:53,621 : INFO : Output variables calculated for URL_ID: 100
+2023-06-12 22:35:53,624 : INFO : Output variables calculated for URL_ID: 101
+2023-06-12 22:35:53,634 : INFO : Output variables calculated for URL_ID: 102
+2023-06-12 22:35:53,636 : INFO : Output variables calculated for URL_ID: 103
+2023-06-12 22:35:53,658 : INFO : Output variables calculated for URL_ID: 104
+2023-06-12 22:35:53,673 : INFO : Output variables calculated for URL_ID: 105
+2023-06-12 22:35:53,677 : INFO : Output variables calculated for URL_ID: 106
+2023-06-12 22:35:53,686 : INFO : Output variables calculated for URL_ID: 107
+2023-06-12 22:35:53,694 : INFO : Output variables calculated for URL_ID: 108
+2023-06-12 22:35:53,695 : INFO : Output variables calculated for URL_ID: 109
+2023-06-12 22:35:53,704 : INFO : Output variables calculated for URL_ID: 110
+2023-06-12 22:35:53,712 : INFO : Output variables calculated for URL_ID: 111
+2023-06-12 22:35:53,721 : INFO : Output variables calculated for URL_ID: 112
+2023-06-12 22:35:53,727 : INFO : Output variables calculated for URL_ID: 113
+2023-06-12 22:35:53,742 : INFO : Output variables calculated for URL_ID: 114
+2023-06-12 22:35:53,762 : INFO : Output variables calculated for URL_ID: 115
+2023-06-12 22:35:53,767 : INFO : Output variables calculated for URL_ID: 116
+2023-06-12 22:35:53,784 : INFO : Output variables calculated for URL_ID: 117
+2023-06-12 22:35:53,800 : INFO : Output variables calculated for URL_ID: 118
+2023-06-12 22:35:53,805 : INFO : Output variables calculated for URL_ID: 119
+2023-06-12 22:35:53,823 : INFO : Output variables calculated for URL_ID: 120
+2023-06-12 22:35:53,838 : INFO : Output variables calculated for URL_ID: 121
+2023-06-12 22:35:53,856 : INFO : Output variables calculated for URL_ID: 122
+2023-06-12 22:35:53,872 : INFO : Output variables calculated for URL_ID: 123
+2023-06-12 22:35:53,880 : INFO : Output variables calculated for URL_ID: 124
+2023-06-12 22:35:53,896 : INFO : Output variables calculated for URL_ID: 125
+2023-06-12 22:35:53,903 : INFO : Output variables calculated for URL_ID: 126
+2023-06-12 22:35:53,918 : INFO : Output variables calculated for URL_ID: 127
+2023-06-12 22:35:53,922 : INFO : Output variables calculated for URL_ID: 128
+2023-06-12 22:35:53,927 : INFO : Output variables calculated for URL_ID: 129
+2023-06-12 22:35:53,942 : INFO : Output variables calculated for URL_ID: 130
+2023-06-12 22:35:53,959 : INFO : Output variables calculated for URL_ID: 131
+2023-06-12 22:35:53,974 : INFO : Output variables calculated for URL_ID: 132
+2023-06-12 22:35:53,980 : INFO : Output variables calculated for URL_ID: 133
+2023-06-12 22:35:53,983 : INFO : Output variables calculated for URL_ID: 134
+2023-06-12 22:35:53,987 : INFO : Output variables calculated for URL_ID: 135
+2023-06-12 22:35:53,992 : INFO : Output variables calculated for URL_ID: 136
+2023-06-12 22:35:53,995 : INFO : Output variables calculated for URL_ID: 137
+2023-06-12 22:35:53,998 : INFO : Output variables calculated for URL_ID: 138
+2023-06-12 22:35:54,002 : INFO : Output variables calculated for URL_ID: 139
+2023-06-12 22:35:54,009 : INFO : Output variables calculated for URL_ID: 140
+2023-06-12 22:35:54,013 : INFO : Output variables calculated for URL_ID: 141
+2023-06-12 22:35:54,028 : INFO : Output variables calculated for URL_ID: 142
+2023-06-12 22:35:54,034 : INFO : Output variables calculated for URL_ID: 143
+2023-06-12 22:35:54,041 : INFO : Output variables calculated for URL_ID: 145
+2023-06-12 22:35:54,049 : INFO : Output variables calculated for URL_ID: 146
+2023-06-12 22:35:54,062 : INFO : Output variables calculated for URL_ID: 147
+2023-06-12 22:35:54,076 : INFO : Output variables calculated for URL_ID: 148
+2023-06-12 22:35:54,081 : INFO : Output variables calculated for URL_ID: 149
+2023-06-12 22:35:54,090 : INFO : Output variables calculated for URL_ID: 150
+2023-06-12 22:35:54,951 : INFO : Data processing steps completed
+2023-06-12 22:35:54,959 : CRITICAL : Output file saved successfully
